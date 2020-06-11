@@ -1,0 +1,11 @@
+This is to test
+
+Opening the file
+
+In read mode using pYthon
+
+to test the Python
+
+python
+
+checking
