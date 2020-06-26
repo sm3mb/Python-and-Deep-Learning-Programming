@@ -7,3 +7,7 @@ Python ICP 2 Wiki: https://github.com/sm3mb/Python-and-Deep-Learning-Programming
 Python ICP 3 Wiki: https://github.com/sm3mb/Python-and-Deep-Learning-Programming/wiki/ICP-3
 
 Python ICP 4 Wiki: https://github.com/sm3mb/Python-and-Deep-Learning-Programming/wiki/ICP-4
+
+Python ICP 5 Wiki: https://github.com/sm3mb/Python-and-Deep-Learning-Programming/wiki/ICP-5
+
+Python ICP 6 Wiki: https://github.com/sm3mb/Python-and-Deep-Learning-Programming/wiki/ICP-6
