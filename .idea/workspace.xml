@@ -32,8 +32,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.cluster">
-    <configuration name="cluster" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.svcTest">
+    <configuration name="nlp1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ICPS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,11 +41,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP6/cluster.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP7/nlp1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,7 +54,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="garrage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="nlp2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ICPS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP5/garrage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP7/nlp2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="preprocessing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="spelling_corrector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ICPS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP5/preprocessing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP7/spelling_corrector.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="svc1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ICPS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP5/regression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP7/svc1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wine_quality" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="svcTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ICPS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP5/wine_quality.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP7/svcTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.cluster" />
-        <item itemvalue="Python.wine_quality" />
-        <item itemvalue="Python.garrage" />
-        <item itemvalue="Python.preprocessing" />
-        <item itemvalue="Python.regression" />
+        <item itemvalue="Python.svcTest" />
+        <item itemvalue="Python.nlp1" />
+        <item itemvalue="Python.nlp2" />
+        <item itemvalue="Python.svc1" />
+        <item itemvalue="Python.spelling_corrector" />
       </list>
     </recent_temporary>
   </component>
@@ -166,30 +166,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="454" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1592276865229" />
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591893051498">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593565338150">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591893051498" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593565338150" />
     <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1592704409830">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592704409830" />
-    <state width="1345" height="346" key="GridCell.Tab.0.bottom" timestamp="1593129974787">
+    <state width="1345" height="281" key="GridCell.Tab.0.bottom" timestamp="1593570083016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="346" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593129974787" />
-    <state width="1345" height="346" key="GridCell.Tab.0.center" timestamp="1593129974787">
+    <state width="1345" height="281" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593570083016" />
+    <state width="1345" height="281" key="GridCell.Tab.0.center" timestamp="1593570083016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="346" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593129974787" />
-    <state width="1345" height="346" key="GridCell.Tab.0.left" timestamp="1593129974787">
+    <state width="1345" height="281" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593570083016" />
+    <state width="1345" height="281" key="GridCell.Tab.0.left" timestamp="1593570083016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="346" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593129974787" />
-    <state width="1345" height="346" key="GridCell.Tab.0.right" timestamp="1593129974787">
+    <state width="1345" height="281" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593570083016" />
+    <state width="1345" height="281" key="GridCell.Tab.0.right" timestamp="1593570083016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="346" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593129974787" />
+    <state width="1345" height="281" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593570083016" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1592705422465">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
